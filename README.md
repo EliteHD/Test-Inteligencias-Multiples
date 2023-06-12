@@ -1,2 +1,6 @@
 # Test-Inteligencias-Multiples
-Test realizada en forms con C#, el cual te dice mediante calculo de respuesta la inteligencia respecto a las establecidas. 
+Creation of a C# Windows Forms program for administering a Multiple Intelligences Test based on the work of Thomas Armstrong.
+
+
+
+
